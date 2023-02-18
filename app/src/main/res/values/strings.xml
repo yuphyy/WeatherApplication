@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weatherApplication</string>
+    <string name="splashScreenText">WeatherApp v1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find">find</string>
+    <string name="city">city</string>
+    <string name="temp">℃</string>
+    <string name="weather">weather</string>
+    <string name="wind">wind speed</string>
+    <string name="humidity">humidity</string>
+    <string name="sunrise">sunrise time</string>
+    <string name="sunset">sunset time</string>
+    <string name="exception">Empty or wrong city</string>
+    <string name="about">Автор: Акимов Абибулла Шкуриевич\nОбразование: 4 курс 09.03.04 "Программная инженерия"\nБиблиотеки, компоненты и прочее: Retrofit2,okHttp3,Koin,Navigation Component, coroutines, BottomNavigationView, SwipeRefreshLayout, LiveData, MVVM pattern, ViewBinding, Clean Architecture, Figma (использовал публичные пресеты иконок)</string>
+</resources>
